@@ -1,0 +1,381 @@
+[
+  {
+    "id": "Leto",
+    "nameEn": [
+      "Leto",
+      "Leifer"
+    ],
+    "nameJa": [
+      "レト",
+      "レイファー"
+    ],
+    "gender": "Male",
+    "region": "Nena",
+    "faction": "CRD SPELLBOUND",
+    "organization": "KINETIK (BOLSTER GROUP)",
+    "description": [
+      "IRGPにおいて数々の優勝経験を持つ伝説的なレーシングドライバー。",
+      "総合優勝としてセンターへの移民権を得るも、その後行方を晦ませた。"
+    ],
+    "quotes": {
+      "win": [
+        "レースに勝つ秘訣？ライバルを全員スクラップにする事さ。"
+      ]
+    }
+  },
+  {
+    "id": "Lycia",
+    "nameEn": [
+      "Lycia",
+      "Strand"
+    ],
+    "nameJa": [
+      "リシア",
+      "ストランド"
+    ],
+    "nameCn": [
+      "佑",
+      "柊"
+    ],
+    "attribute": "STRIKER",
+    "gender": "Female",
+    "region": "Nena",
+    "faction": "Serpent International",
+    "organization": "SIRV (RACUM CORPOLATION)",
+    "description": [
+      "ニーナ自治区の主任レギュレーター。",
+      "テオのパートナーとして優勝に貢献しセンターの市民権を得るも、移入を目前にして契約を解消され置き去りにされた。",
+      "主人公をバックアップし再びセンターへの移入を目指している。"
+    ],
+    "quotes": {
+      "win": [
+        "全ては、災禍を断ち切る一刀のため。"
+      ]
+    },
+    "personality": [
+      "ハードボイルド"
+    ],
+    "tone": "",
+    "vehicle": "ILS Insanity"
+  },
+  {
+    "id": "Neu",
+    "nameEn": [
+      "Neu",
+      "Erytheia"
+    ],
+    "nameJa": [
+      "ノイ",
+      "エリュテイア"
+    ],
+    "aka": "Morgan le Fay (魔女)",
+    "attribute": "ABSORBER",
+    "gender": "Female",
+    "region": "Esel",
+    "faction": "CRD SPELLBOUND",
+    "organization": "BUGHOUSE (BOLSTER BIOSYS)",
+    "description": [
+      "自分を猫だと思い込んでいる元捜査官。ナイフ投げる。"
+    ],
+    "quotes": {
+      "damage": [
+        "痛いニャー"
+      ]
+    },
+    "personality": [
+      "不思議。猫"
+    ],
+    "tone": "話し言葉",
+    "vehicle": "ILS Maeve",
+    "voice": "Rinna37",
+    "model": "Rinna"
+  },
+  {
+    "id": "Althea",
+    "nameEn": [
+      "Althea",
+      "Hazel"
+    ],
+    "nameJa": [
+      "アルテア",
+      "ハゼル"
+    ],
+    "aka": "トリガーハッピー",
+    "attribute": "SENSOR",
+    "gender": "Female",
+    "region": "Vaal",
+    "faction": "CRD SPELLBOUND",
+    "organization": "KINETIKS (BOLSTER BIOSYS)",
+    "description": [
+      "銃に異様な愛情を抱くガンマニア。よくしゃべる。",
+      "ドローンを駆使し、3km位なら平気で命中させる狙撃のプロ。",
+      "ネバダ地区のモンスター狩りに従事していたが、召集された。",
+      "実力とコネにより階級は大尉。大佐Aは育ての親。"
+    ],
+    "quotes": {
+      "win": [
+        "お手柔らかにお願いしますね",
+        "静かだけど火力が高くて頼りになる子が好きです！"
+      ],
+      "damage": [
+        "ちょっと、何するんです！"
+      ]
+    },
+    "personality": [
+      "明るい"
+    ],
+    "tone": "軍人、お嬢様",
+    "voice": "AzureJaJpNanamiNeural",
+    "model": "ChatGptTurbo35"
+  },
+  {
+    "id": "Ilus",
+    "nameEn": [
+      "Ilus",
+      "Illuzia"
+    ],
+    "nameJa": [
+      "イルス",
+      "イリューツィア"
+    ],
+    "nameCn": [
+      "瑞乃",
+      "芹"
+    ],
+    "aka": "荒野に咲く食虫花",
+    "attribute": "STRIKER",
+    "gender": "Female",
+    "region": "Glacis",
+    "faction": "CRD SPELLBOUND",
+    "organization": "MRD",
+    "description": [
+      "自治区の主任レギュレーター。",
+      "ロシア語を母語とする。"
+    ],
+    "quotes": {
+      "win": [
+        "お姉さんが全部教えてアゲル"
+      ]
+    }
+  },
+  {
+    "id": "Nemea",
+    "nameEn": [
+      "Nemea",
+      "Aislink"
+    ],
+    "nameJa": [
+      "ネメア",
+      "アイスリンク"
+    ],
+    "aka": "医療崩壊",
+    "attribute": "STRIKER",
+    "gender": "Female",
+    "region": "Ayla",
+    "faction": "CRD SPELLBOUND",
+    "organization": "RACUM CORP.",
+    "description": [],
+    "quotes": {
+      "win": [
+        "死体からでも治してやる",
+        "人は死ぬ時が最も美しい、そう思わないか？"
+      ]
+    }
+  },
+  {
+    "id": "Giana",
+    "nameEn": [
+      "Giana",
+      "Augusta"
+    ],
+    "nameJa": [
+      "ジアーナ",
+      "オーガスタ"
+    ],
+    "aka": "深窓の令嬢",
+    "attribute": "STRIKER",
+    "gender": "Female",
+    "region": "Esel",
+    "faction": "CRD SPELLBOUND",
+    "organization": "MRD",
+    "description": [],
+    "quotes": {
+      "win": [
+        "常世との境界に奴らは顕れる",
+        "死の輪舞を踊りましょう♪"
+      ]
+    }
+  },
+  {
+    "id": "Lerna",
+    "nameEn": [
+      "Lerna",
+      "Carlyle"
+    ],
+    "nameJa": [
+      "レルナ",
+      "カーライル"
+    ],
+    "aka": "医療崩壊",
+    "attribute": "STRIKER",
+    "gender": "Female",
+    "region": "Kenor",
+    "faction": "CRD SPELLBOUND",
+    "organization": "RACUM CORP.",
+    "description": [],
+    "quotes": {
+      "win": [
+        "死体からでも治してやる",
+        "人は死ぬ時が最も美しい、そう思わないか？"
+      ]
+    }
+  },
+  {
+    "id": "Theo",
+    "nameEn": [
+      "Theo",
+      "Leifer"
+    ],
+    "nameJa": [
+      "テオ",
+      "レイファー"
+    ],
+    "gender": "Male",
+    "region": "Nena",
+    "faction": "CRD SPELLBOUND",
+    "organization": "KINETIK (BOLSTER GROUP)",
+    "description": [
+      "IRGPにおいて数々の優勝経験を持つ伝説的なレーシングドライバー。",
+      "総合優勝としてセンターへの移民権を得るも、その後行方を晦ませた。"
+    ],
+    "quotes": {
+      "win": [
+        "レースに勝つ秘訣？ライバルを全員スクラップにする事さ。"
+      ]
+    }
+  },
+  {
+    "id": "Frost",
+    "nameEn": [
+      "Frost",
+      "Aegle"
+    ],
+    "nameJa": [
+      "フロスト",
+      ""
+    ],
+    "gender": "Male",
+    "description": [
+      "スピード狂"
+    ],
+    "personality": [
+      "お調子者で頭がぶっ飛んでいる"
+    ],
+    "quotes": {
+      "damage": [
+        "てめぇ、何しやがる！",
+        "クソ！"
+      ]
+    },
+    "tone": "俺様口調",
+    "image": "frost.jpg",
+    "voice": "AzureJaJpNaokiNeural",
+    "model": "ChatGptTurbo35"
+  },
+  {
+    "id": "M02",
+    "nameEn": [
+      "Chiken",
+      "Chaser"
+    ],
+    "gender": "Male",
+    "description": [],
+    "quotes": {
+      "win": [
+        "1本でもニンジン",
+        "どっちかというとクール系なんだよな、私は",
+        "土魔法を自在に使えるようになったころ、私は完成していた。",
+        "人生の半分はおっさんなんだよな",
+        "暗鬱"
+      ]
+    },
+    "image": "chicken.jpg",
+    "voice": "AzureJaJpNaokiNeural",
+    "model": "ChatGptTurbo35"
+  },
+  {
+    "id": "M03",
+    "nameEn": [
+      "Physicist",
+      ""
+    ],
+    "aka": "ネクロマンサー",
+    "gender": "Male",
+    "description": [],
+    "image": "physicist.jpg"
+  },
+  {
+    "id": "M04",
+    "nameEn": [
+      "Yellow",
+      "Dog"
+    ],
+    "gender": "Male",
+    "description": [],
+    "image": "yellow.jpg"
+  },
+  {
+    "id": "N01",
+    "nameEn": [
+      "Plug",
+      ""
+    ],
+    "vehicle": "DIABLO",
+    "image": "plug.jpg"
+  },
+  {
+    "id": "N02",
+    "nameEn": [
+      "Qtpie",
+      ""
+    ],
+    "vehicle": "DB7",
+    "image": "qtpie.jpg"
+  },
+  {
+    "id": "N03",
+    "nameEn": [
+      "Brox",
+      ""
+    ],
+    "vehicle": "XKR",
+    "image": "brox.jpg"
+  },
+  {
+    "id": "N04",
+    "nameEn": [
+      "Escra",
+      ""
+    ],
+    "vehicle": "M5",
+    "image": "escra.jpg"
+  },
+  {
+    "id": "N05",
+    "nameEn": [
+      "Canman",
+      ""
+    ],
+    "vehicle": "CORVETTE",
+    "image": "canman.jpg"
+  },
+  {
+    "id": "N06",
+    "nameEn": [
+      "Rush",
+      ""
+    ],
+    "vehicle": "SLK230",
+    "image": "rush.jpg"
+  }
+]

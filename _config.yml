@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Tripwire Racing
+description:
+include:
+- ".well-known"
