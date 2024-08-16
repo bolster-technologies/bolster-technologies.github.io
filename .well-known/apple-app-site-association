@@ -1,0 +1,49 @@
+{
+	"applinks": {
+		"details": [
+			{
+				"appIDs": [
+					"PMVT9P2B2Z.app.kdx-sto.kdx-st.dev",
+					"PMVT9P2B2Z.app.kdx-sto.kdx-st.local"
+				],
+				"components": [
+					{
+						"/": "/login",
+						"comment": ""
+					},
+					{
+						"/": "/mypage",
+						"comment": ""
+					},
+					{
+						"/": "/inquiry",
+						"comment": ""
+					},
+					{
+						"/": "/knowledge/articles/*",
+						"comment": ""
+					},
+					{
+						"/": "/promotions",
+						"comment": ""
+					},
+					{
+						"/": "/funds/*",
+						"comment": ""
+					},
+					{
+						"/": "/asset",
+						"comment": ""
+					}
+				]
+			}
+		]
+	},
+	"webcredentials": {
+		"apps": [
+			"PMVT9P2B2Z.app.kdx-sto.kdx-st.local",
+			"PMVT9P2B2Z.app.kdx-sto.kdx-st.dev"
+		]
+	},
+	"appclips": {}
+}
